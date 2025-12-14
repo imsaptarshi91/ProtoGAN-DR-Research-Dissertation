@@ -3,4 +3,4 @@ Diabetic Retinopathy (DR) is a type of progressive microvascular complication of
 
 
 Keywords: Diabetic Retinopathy, ProtoGan , DCGAN, XAI, Computer vision in healthcare, Medical Image Segmentation , Prototype Layer, GradCAM Heatmap,GradCAM Overlay
-<img width="468" height="482" alt="image" src="https://github.com/user-attachments/assets/5bdd9b2f-c74d-4a77-9971-d88e9bc3240b" />
+
